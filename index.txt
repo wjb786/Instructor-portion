@@ -1,0 +1,10 @@
+1. Open command prompt
+
+2. cd C:\Users\cybernext_16\Desktop\login
+
+3. node app.js
+
+4. go to this link "http://localhost:8080/"
+
+
+Username : pawan and password : 123456
